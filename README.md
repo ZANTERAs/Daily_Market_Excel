@@ -3,7 +3,7 @@ A bot that each day gives you, your portafolio updates with, news, values, profi
 
 ---
 
-## Company's Daily Information
+## Company's Daily Information /n\n
 ❌Ticker (✅ But not implemented on this code)
 ❌Price (✅ But not implemented on this code)
 ❌Profit / Loss (Actual Price - Buy price) (✅ But not implemented on this code)
