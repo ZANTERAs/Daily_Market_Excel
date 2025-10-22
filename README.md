@@ -3,6 +3,13 @@ A bot that each day gives you, your portafolio updates with, news, values, profi
 
 ---
 
+## How it works
+PAGE 1
+
+Ticker | Buy Price | Buy Date | Amounts of Share
+
+---
+
 ## Company's Daily Information 
 ❌Ticker (✅ But not implemented on this code)
 
