@@ -245,7 +245,7 @@ Status:
 Add a `Weekly Summary` sheet with:
 - Ticker
 - Avg Sentiment over the last 7 days
-- # of articles in that 7-day window (and especially # of negative articles)
+- (#) of articles in that 7-day window (and especially # of negative articles)
 - A “Harm / Risk” label such as LOW / MEDIUM / HIGH based on sentiment level and negative coverage volume
 
 This gives you: “How much did news hurt this company this week?”  
