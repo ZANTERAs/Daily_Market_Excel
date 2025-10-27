@@ -45,5 +45,16 @@
     "NVIDIA Corporation",
     "NVIDIA",
     "NVDA"
+  ],
+  "YPF": [
+    "Yacimientos Petrolíferos Fiscales", 
+    "YPF"
+  ],
+  "PAM": [
+    "Pampa Energía",
+    "Pampa Energia",
+    "Pampa Holding"
   ]
+
+
 }

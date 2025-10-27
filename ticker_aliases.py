@@ -39,7 +39,6 @@ except Exception as ex:
 # -----------------------------
 DEFAULT_TICKERS: List[str] = ["EXC", "XEL", "AEP", "CEG", "MSFT", "GOOG", "AAPL", "AMZN", "NVDA"]
 
-
 # -----------------------------
 # Helpers to generate aliases
 # -----------------------------
